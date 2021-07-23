@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @YashGaykar0309
-- 👀 I’m interested in Java
+- 👀 I’m interested in Web Development
 - 🌱 I’m currently learning BE Computer
 - 💞️ I’m looking to collaborate on Java Projects
 - 📫 How to reach me yashgaykar44@gmail.com
